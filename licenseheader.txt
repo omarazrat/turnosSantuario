@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Turnos Santuario
+${licensePrefix} Asignador de turnos para estudiantes.
+${licensePrefix} Este programa fue diseñado para la Santa Iglesia Gnóstica Universal, por Nestor Arias -nestor_arias@hotmail.com
+<#if licenseLast??>
+${licenseLast}
+</#if>
